@@ -8,4 +8,4 @@
 
 - [Medium]()
 - [X]()
-- [LinkedIn](https://www.linkedin.com/in/sahil-chourasiya/)
+- <a href="https://www.linkedin.com/in/sahil-chourasiya/" target="_blank">Linkedin</a>
